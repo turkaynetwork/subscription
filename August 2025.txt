@@ -1,0 +1,1 @@
+vless://63af43be-fce9-41a0-9c15-e6f40e7022a5@www.turkaynetwork.sbs:1144?security=none&encryption=none&headerType=http&type=tcp#Turkay
