@@ -1,2 +1,2 @@
 vless://58bbded3-4834-4a34-8255-de053645592d@www.turkaynetwork.site:1144?security=reality&encryption=none&pbk=2AHta-AJn4EwhPdx4YrRyno1KdGvydFrY4ayxDQmMAM&headerType=none&fp=safari&spx=%2F&type=tcp&sni=google.com&sid=110f#Turkay
-vless://fe140f1a-7c6b-4006-9617-2eb133a8f185@speedtest.net:80?encryption=none&type=ws&host=sabzb.global.ssl.fastly.net&path=/download&security=none#%F0%9F%87%A9%F0%9F%87%AA%20DE-0-%20%F0%9F%9A%80%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
+vless://f45d743e-0d00-40e0-b14f-19f70dbf2647@94.184.177.136:1024?type=tcp&encryption=none&path=%2F&headerType=http&security=none#Turkay
