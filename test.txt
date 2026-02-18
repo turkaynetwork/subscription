@@ -1,2 +1,0 @@
-vless://58bbded3-4834-4a34-8255-de053645592d@www.turkaynetwork.site:1144?security=reality&encryption=none&pbk=2AHta-AJn4EwhPdx4YrRyno1KdGvydFrY4ayxDQmMAM&headerType=none&fp=safari&spx=%2F&type=tcp&sni=google.com&sid=110f#Turkay
-vless://f45d743e-0d00-40e0-b14f-19f70dbf2647@94.184.177.136:1024?type=tcp&encryption=none&path=%2F&headerType=http&security=none#Turkay
